@@ -1,0 +1,33 @@
+{
+    "app": {
+        "loading": "Chargement en cours...",
+        "offline": "Impossible de se connecter, êtes-vous déconnecté ?",
+        "logginIn": "Connection en cours..."
+    },
+    "error": {
+        "insufficientRights": "Vous n'avez pas les droits pour effectuer cette action."
+    },
+    "buttons": {
+        "ok": "OK",
+        "cancel": "Annuler",
+        "save": "Enregistrer",
+        "edit": "Modifier",
+        "send": "Envoyer",
+        "sending": "Envoi en cours...",
+        "create": "Créer",
+        "select": "Selectionner",
+        "tryToReconnect": "Tentative de reconnection"
+    },
+    "commonWords": {
+        "you": "Vous",
+        "send": "Envoyer",
+        "or": "ou",
+        "of": "de",
+        "with": "avec",
+        "and": "et",
+        "on": "sur",
+        "per": "par",
+        "total":"total",
+        "at": "à"
+    }
+}
