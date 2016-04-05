@@ -1,24 +1,24 @@
 {
     "elements": {
         "selectGasPrice": {
-            "high": "Faster",
-            "low": "Cheaper"
+            "high": "Plus rapide",
+            "low": "Moins chère"
         },
-        "checksumAlert":"This address looks valid, but it doesn't have some security features that will protect you against typos, so double check you have the right one. If provided, check if the security icon matches.",
-        "identiconHelper": "This is a security icon, if there's any change on the address the resulting icon should be a completelly different one"
+        "checksumAlert":"Cette adresse semble valide, mais elle n'a pas de fonctionnalités de sécurité qui vous protégeront contre les fautes de frappe, alors revérifiez que vous avez la bonne. Si elle est fournie, vérifiez si l'icône de sécurité correspond.",
+        "identiconHelper": "C'est une icone de sécurité, si il y a le moindre changement sur l'adresse l'icône résultante devrait être complètement différente"
     },
     "wallet": {
         "app": {
             "buttons": {
                 "wallet": "Wallets",
-                "send": "Send",
-                "contracts": "Contracts",
-                "deploy": "Deploy",
+                "send": "Envoyer",
+                "contracts": "Contrats",
+                "deploy": "Déployer",
                 "tokens": "Tokens",
-                "receive": "Receive",
-                "addWallet": "Add wallet contract",
-                "addAccount": "Add Account",
-                "addToken": "Watch Token"
+                "receive": "Recevoir",
+                "addWallet": "Ajouter un contrat wallet",
+                "addAccount": "Ajouter un compte",
+                "addToken": "Suivre un Token"
             },
             "texts": {
                 "note": "Note",
